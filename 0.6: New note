@@ -1,0 +1,3 @@
+  
+browser->server: HTTP POST request to the address new_note_spa 
+server-->browser: Status code 201 created
