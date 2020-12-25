@@ -1,0 +1,2 @@
+browser->server: HTTP GET to the server address  https://fullstack-exampleapp.herokuapp.com/spa.
+server-->browser: HTML code
